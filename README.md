@@ -1,3 +1,3 @@
 # UI-UX-Designs
 
-(/Capture.JPG)
+(/Desktop 1200px-100.jpg.JPG)
