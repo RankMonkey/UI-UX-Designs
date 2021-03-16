@@ -1,3 +1,3 @@
 # UI-UX-Designs
 
-(Desktop 1200px-100.jpg)
+![UI DESIGN](/Desktop 1200px-100.jpg)
